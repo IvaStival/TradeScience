@@ -27,11 +27,19 @@ Nesse projeto iremos usar como base a biblioteca chamada vectorBT que tem como o
 ### ML
 * Pandas
 
+# VectorBT
+https://www.youtube.com/watch?v=knOPLwyc5u0
+https://www.youtube.com/watch?v=OiQRD2BcHhA&t=4s
+https://www.youtube.com/watch?v=OiQRD2BcHhA&t=4s
+
 # Steps
-## - 1
+## Part 1
+[] -
+
 * Implementar a lib VectorBT e adquirir os dados históricos da corretora;
 * Adquirir os algoritmos das estratégias (Temos que enteder melhor como funciona);
 * Usar as estratégias nos dados históricos e com ajuda do vectorBT encontrar a melhor otimização da estratégia;
+
 
 * TODO Next talk
 - Definir Step2
