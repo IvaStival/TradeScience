@@ -34,15 +34,20 @@ https://www.youtube.com/watch?v=OiQRD2BcHhA&t=4s
 
 # Steps
 ## Part 1
-[] -
+* Ler a documentação do VectorBT 
+* Configurar um docker como base
+* Fazer a implementação de uma classe para adquiridir os dados históricos de uma corretora usando o vectorBT (Referencia: https://www.youtube.com/watch?v=knOPLwyc5u0)
+  - Devemos adquirir esses dados usando uma quantidade variavel de estratégias
+  - Devemos salvar todos os resultados de cada estratégia
+* Fazer uma classe para analisar os dados adquiridos e retornar um ranking de estratégias sendo a primeira a com maior lucro/score.
+  - Escolher uma forma de score para as estratégias
 
-* Implementar a lib VectorBT e adquirir os dados históricos da corretora;
-* Adquirir os algoritmos das estratégias (Temos que enteder melhor como funciona);
-* Usar as estratégias nos dados históricos e com ajuda do vectorBT encontrar a melhor otimização da estratégia;
-
+## Part 2
+* Desenvolver o algoritmo para execução em paralelo
+  - Usar AWS? Azure? Google?
+* Interface
 
 * TODO Next talk
-- Definir Step2
 - Ter estudados sobre VectorBT
 - Começar desenvolvimento
 - Terminar as Issues e README
