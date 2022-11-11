@@ -1,9 +1,9 @@
 # TradeScience
 Trade project based on multi strategies optimized by machine learning.
 
-No universo de criptomoedas podemos fazer operações de compra e venda nos mais variados tipos de moedas como por exemplo Bitcoin, Eterium, Cardana, entre outras e com essas operações podemos obter lucro.
-Podemos fazer essas operações de maneira simples ou de maneira profissional usando indicadores. E esses indicadores são a base desse projeto, eles serão 
-utilizados para podermos encontrar momentos de compra e venda das moedas, momentos esses baseados em dados históricos e otimizados pela IA.
+<p>No universo de criptomoedas podemos fazer operações de compra e venda nos mais variados tipos de moedas como por exemplo Bitcoin, Eterium, Cardana, entre outras e com essas operações podemos obter lucro.</p>
+<p>Podemos fazer essas operações de maneira simples ou de maneira profissional usando indicadores. E esses indicadores são a base desse projeto, eles serão 
+utilizados para podermos encontrar momentos de compra e venda das moedas, momentos esses baseados em dados históricos e otimizados pela IA.</p>
 
 # Indice
 * [Objetivo](#objetivo)
