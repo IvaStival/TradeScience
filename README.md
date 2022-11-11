@@ -25,8 +25,11 @@ Encontrar um melhor indicador que resulte em um melhor retorno financeiro utiliz
 
 # Libs
 ## API
-* [vectorBT](https://vectorbt.dev/)
-Nesse projeto iremos usar como base a biblioteca chamada vectorBT que tem como objetivo de otimizar os parametros dos indicadores
+> **[vectorBT](https://vectorbt.dev/)**
+> <p>Nesse projeto iremos usar como base a biblioteca chamada vectorBT que tem como objetivo de otimizar os parametros dos indicadores</p>
+
+> **[Backtesting](https://pypi.org/project/Backtesting/)**
+> <p>Tendo em vista que o vectorBT é uma biblioteca paga vamos usar a biblioteca Backtesting como uma possível alternativa</p>
 
 ## ML
 * Pandas
@@ -38,9 +41,10 @@ https://www.youtube.com/watch?v=OiQRD2BcHhA&t=4s
 
 # Steps
 ## Part 1
-- [ ] Ler a documentação do VectorBT 
+- [ ] Ler a documentação do VectorBT
+- [ ] Entender o funcionamento da lib Backtesting 
 - [ ] Configurar um docker como base
-- [ ] Fazer a implementação de uma classe para adquiridir os dados históricos de uma corretora usando o vectorBT ([Referencia])(https://www.youtube.com/watch?v=knOPLwyc5u0)
+- [ ] Fazer a implementação de uma classe para adquiridir os dados históricos de uma corretora usando o vectorBT ([Referencia](https://www.youtube.com/watch?v=knOPLwyc5u0))
   - Devemos adquirir esses dados usando uma quantidade variavel de estratégias
   - Devemos salvar todos os resultados de cada estratégia
 - [ ] Fazer uma classe para analisar os dados adquiridos e retornar um ranking de estratégias sendo a primeira a com maior lucro/score.
