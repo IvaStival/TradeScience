@@ -5,7 +5,7 @@ No universo de criptomoedas podemos fazer operações de compra e venda nos mais
 Podemos fazer essas operações de maneira simples ou de maneira profissional usando indicadores. E esses indicadores são a base desse projeto, eles serão 
 utilizados para podermos encontrar momentos de compra e venda das moedas, momentos esses baseados em dados históricos e otimizados pela IA.
 
-## Problema
+## Problemas
 
 
 ## Objetivo
