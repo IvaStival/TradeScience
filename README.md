@@ -34,10 +34,11 @@ Encontrar um melhor indicador que resulte em um melhor retorno financeiro utiliz
 ## ML
 * Pandas
 
-## VectorBT
-https://www.youtube.com/watch?v=knOPLwyc5u0
-https://www.youtube.com/watch?v=OiQRD2BcHhA&t=4s
-https://www.youtube.com/watch?v=OiQRD2BcHhA&t=4s
+# Referencias
+> ## VectorBT
+> https://www.youtube.com/watch?v=knOPLwyc5u0
+> https://www.youtube.com/watch?v=OiQRD2BcHhA&t=4s
+> https://www.youtube.com/watch?v=OiQRD2BcHhA&t=4s
 
 # Steps
 ## Part 1
